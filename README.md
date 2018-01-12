@@ -2,7 +2,7 @@
 
 Let's build something together!
 
-![scholarship image](image goes here)
+![scholarship image](https://github.com/username1001/SfGoogleChallenge2018/blob/master/google.png)
 
 ## What This Organization is About
 
